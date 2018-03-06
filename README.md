@@ -1,4 +1,4 @@
-# Telegram Bot
+# Telegram Bot @YadgaroffTestBot
 
 ### Возможности:
 * Бот отправляет случайные фотки по тегу
